@@ -1,8 +1,8 @@
 # keysmash
 
-##Configurable pseudorandom string generator
+## Configurable pseudorandom string generator
 
-###Usage
+### Usage
 
 Use `-i (-/string)` to specify input string, out of which chars will be randomly picked. Same characters increase probability. '-' allows for the string to be piped 
 in or inputted manually
@@ -13,6 +13,6 @@ in or inputted manually
 
 `-h (--help)` - displays help message
 
-###Building
+### Building
 
 To install, run `cargo install [--path path]`
